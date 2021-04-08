@@ -13,7 +13,7 @@ Pillow = "7.1.2"
 python = "^3.5"
 "RPi.GPIO" = "^0.7.0"
 spidev = "^3.4"
-vncdotool = "^1.0.0"
+vncdotool = "^0.13.0"
 
 [tool.poetry.scripts]
 papertty = "papertty:papertty.cli"
